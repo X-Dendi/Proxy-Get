@@ -1,5 +1,4 @@
 import requests
-import Proxy_INFO_module as ProxyIN
 
 UrlList = {
     'VK': 'https://vk.com',
