@@ -13,10 +13,4 @@ Install
 This is how a successful connection to the service looks like
 -------------------------------------------------------------
 
-```mermaid
-graph LR
-A[Script] --> B(Proxy)
-B --> D{Web Site}
-D -x B
-B -x A
-```
+![\[](http://skrinshoter.ru/s/050720/PO6FlgGo)
