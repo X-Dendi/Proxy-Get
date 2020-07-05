@@ -12,6 +12,7 @@ Install
 
 This is how a successful connection to the service looks like
 -------------------------------------------------------------
+
 ```mermaid
 graph LR
 A[Script] --> B(Proxy)
