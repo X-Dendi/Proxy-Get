@@ -9,3 +9,13 @@ Install
 -        cd Proxy-Get
 -        chmod +x Proxy-Get.py
 -        python3 Proxy-Get.py
+
+This is how a successful connection to the service looks like
+-------------------------------------------------------------
+```mermaid
+graph LR
+A[Script] --> B(Proxy)
+B --> D{Web Site}
+D -x B
+B -x A
+```
