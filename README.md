@@ -14,3 +14,7 @@ This is how a successful connection to the service looks like
 -------------------------------------------------------------
 
 ![\[](http://skrinshoter.ru/s/050720/PO6FlgGo)
+<p align="center">
+  <img src="http://skrinshoter.ru/s/050720/PO6FlgGo" width="350" title="hover text">
+  <img src="http://skrinshoter.ru/s/050720/PO6FlgGo" width="350" alt="accessibility text">
+</p>
